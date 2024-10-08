@@ -68,7 +68,7 @@
 			In between Yoga Ashrams and Yoga studios there is a new path.
 		</p>
 
-		<p>Coming soon we are still in meditation</p>
+		<p>Coming soon - still in meditation</p>
 
 <!--		<NameInput/>-->
 	</div>
