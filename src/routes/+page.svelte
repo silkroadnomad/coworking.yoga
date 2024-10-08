@@ -3,8 +3,8 @@
 	let title = `Coworking.yoga`
 	let description = "Yoga First Working Environments";
 	const url = "ipns://coworking.yoga"
-	let image = "/nasa-Q1p7bh3SHj8-unsplash.jpg"
-	const favicon = "./favicon.ico"
+	// let image = "/nasa-Q1p7bh3SHj8-unsplash.jpg"
+	const favicon = "./favicon.png"
 </script>
 
 <svelte:head>
@@ -13,7 +13,7 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={title} />
 	<meta property="og:description" content={description} />
-	<meta property="og:image" content={image} />
+<!--	<meta property="og:image" content={image} />-->
 	<meta property="og:url" content={url} />
 	<meta name="description" content={description}/>
 	<meta name="twitter:card" content={description} />
