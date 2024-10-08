@@ -65,11 +65,10 @@
 <!--		</p>-->
 
 		<p class="text-xl mb-12 max-w-2xl mx-auto leading-relaxed">
-			In between Yoga Ashrams and Yoga studios there is a new path.<br/>
-			Yoga & Coworking.
+			In between Yoga Ashrams and Yoga studios there is a new path.
 		</p>
 
-		<p>coming soon...</p>
+		<p>Coming soon we are still in meditation</p>
 
 <!--		<NameInput/>-->
 	</div>
