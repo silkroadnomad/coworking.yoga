@@ -54,7 +54,8 @@
 		<h1 class="text-3xl font-mediumtext-gray-600 mb-12">Yoga First Working Environments</h1>
 
 		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">
-			The Yoga integrated workspaces from yama & niyama to asnana, pranayama, pratyahara, dharana, dhyana samadi.
+			Yoga integrated workspaces from yama & niyama to asnana,
+			pranayama and samadi while mastering your working schedule.
 		</p>
 <!--		&lt;!&ndash; Description &ndash;&gt;-->
 <!--		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">-->
