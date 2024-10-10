@@ -59,7 +59,7 @@
 		</p>
 <!--		&lt;!&ndash; Description &ndash;&gt;-->
 		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">
-				If that is possible or not, we don't know at the moment but we think it should. And where is a will there's a way too!
+				If that is possible or not, we don't know at the moment but we think it should. Where there's a will there's a way!
 		</p>
 
 		<p class="text-xl mb-12 max-w-2xl mx-auto leading-relaxed">
