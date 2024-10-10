@@ -58,11 +58,9 @@
 			pranayama and samadi while mastering your working schedule.
 		</p>
 <!--		&lt;!&ndash; Description &ndash;&gt;-->
-<!--		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">-->
-<!--			"When I was practicing yoga, I often had to make a choice between work & yoga:<br/>-->
-<!--			Either I worked too much and forgot about my yoga practice-->
-<!--			or when I was in intensive practice, I tend to forgot about the requirements of work"-->
-<!--		</p>-->
+		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">
+				If that is possible or not, we don't know at the moment but we think it should. And where is a will there's a way too!
+		</p>
 
 		<p class="text-xl mb-12 max-w-2xl mx-auto leading-relaxed">
 			In between Yoga Ashrams and Yoga studios there is a new path.
