@@ -51,19 +51,19 @@
 
 		<!-- Title -->
 		<h1 class="text-6xl font-medium mb-2 tracking-tight">Coworking.yoga</h1>
-		<h1 class="text-3xl font-mediumtext-gray-600 mb-12">Yoga First Working Environments</h1>
+		<h2 class="text-3xl font-medium text-gray-600 mb-12">Yoga-First Working Environments</h2>
 
 		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">
-			Yoga integrated workspaces from yama & niyama to asnana,
-			pranayama and samadi while mastering your working schedule.
+			Yoga-integrated workspaces from yama & niyama to asana,
+			pranayama, and samadhi while mastering your work schedule.
 		</p>
-<!--		&lt;!&ndash; Description &ndash;&gt;-->
+
 		<p class="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">
-				If that is possible or not, we don't know at the moment but we think it should. Where there's a will there's a way!
+			Whether this is possible or not, we don't know at the moment, but we think it should be. Where there's a will, there's a way!
 		</p>
 
 		<p class="text-xl mb-12 max-w-2xl mx-auto leading-relaxed">
-			In between Yoga Ashrams and Yoga studios there is a new path.
+			Between Yoga Ashrams and Yoga studios, there is a new path.
 		</p>
 
 		<p>Coming soon - still in meditation</p>

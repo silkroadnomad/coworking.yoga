@@ -13,3 +13,11 @@ ipfs name publish --key=coworking.yoga $cid
 sed -i '' "s|/ipfs/[^\"}]*|/ipfs/$cid|g" vercel.json
 
 echo 'please commit vercel.json and push it to vercel!'
+# Git commands
+git add vercel.json
+git commit -m "Update IPFS CID to $cid for version $version"
+git tag -a "v$version" -m "Version $version"
+git push origin main
+git push origin --tags
+
+echo "Changes committed and pushed to GitHub. Tagged as v$version"
