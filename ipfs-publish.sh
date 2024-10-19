@@ -11,8 +11,8 @@ ipfs name publish --key=coworking.yoga $cid
 
 # Update the vercel.json file with the new CID
 sed -i '' "s|/ipfs/[^\"}]*|/ipfs/$cid|g" vercel.json
-
-echo 'please commit vercel.json and push it to vercel!'
+# Get the current version from package.json
+version=$(node -p "require('./package.json').version")
 # Git commands
 git add vercel.json
 git commit -m "Update IPFS CID to $cid for version $version"
